@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test en informatique</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Suivant</string>
+    <string name="skip">Skip</string>
+    <string name="start">start</string>
+    <string name="inter_ad_unit_id">ca-app-pub-5077122312815505/6285063365</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5077122312815505/7166012140</string>
+    <!-- AdMob App Id -->
+    <!-- DEFAULT Admob APP ID: ca-app-pub-3940256099942544~3347511713 -->
+    <string name="admob_app_id">ca-app-pub-5077122312815505~6756575349</string>
+</resources>
